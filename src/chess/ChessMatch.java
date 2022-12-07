@@ -6,8 +6,6 @@ import boardgame.Position;
 import chess.pieces.King;
 import chess.pieces.Rook;
 
-import javax.xml.transform.Source;
-
 public class ChessMatch {
 
     private Board board;
